@@ -41,7 +41,7 @@ let questions = [
     question: "An Amazon EC2 instance has been launched into an Amazon VPC. A Solutions Architect needs to ensure that instances have both a private and public DNS hostnames. Assuming settings were not changed during creation of the VPC, how will DNS hostnames be assigned by default? (choose 2)",
     answer: "In a default VPC instances will be assigned a public and private DNS hostname and In a non-default VPC instances will be assigned a private but not a public DNS hostname",
     options: [
-      "In a default VPC instances will be assigned a private but not a public DNS hostname"",
+      "In a default VPC instances will be assigned a private but not a public DNS hostname",
       "In a non-default VPC instances will be assigned a public and private DNS hostname?",
       "In all VPCs instances no DNS hostnames will be assigned",
       "In a default VPC instances will be assigned a public and private DNS hostname and In a non-default VPC instances will be assigned a private but not a public DNS hostname"
@@ -60,7 +60,6 @@ let questions = [
   },
 
 ];
-
 
 
 
